@@ -1,0 +1,24 @@
+
+.principal{
+text-align: center;
+height: 100px;
+padding-right: 100px;
+padding-left: 10%;
+border: solid;
+margin-left: 30%;
+margin-right: 30%; 
+box-shadow: 5px 5px 5px gray;   
+}.inicio{
+    text-align: right;
+    width: 40%;
+    margin-right: 20px;
+    float: left;
+    
+}
+.observacion{
+    float: left;
+    width: 40%;
+    margin-left: 20px;
+    text-align: left;
+    
+}
